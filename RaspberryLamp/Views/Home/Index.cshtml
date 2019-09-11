@@ -1,0 +1,62 @@
+﻿
+<style>
+    .lampSwitch {
+        border: 1px solid black;
+        height: 100px;
+        width: 100px;
+        cursor: pointer;
+        margin: 10px;
+    }
+
+    .on {
+        background-color: green;
+    }
+
+    .off {
+        background-color: red;
+    }
+
+</style>
+
+
+
+<div id="lampOn" class="lampSwitch on">
+    <span>On</span>
+</div>
+
+<br />
+
+<div id="lampOff" class="lampSwitch off">
+    <span>Off</span>
+</div>
+
+
+<script>
+
+    window.addEventListener('load', function () {
+
+        document.getElementById("lampOn").addEventListener('click', function (e) {
+
+            console.log("click");
+
+            var xhttp = new XMLHttpRequest();
+            xhttp.open("POST", '/test/Home/TurnLampOn', true);
+            xhttp.send();
+
+            e.preventDefault()
+        }, false);
+
+        document.getElementById("lampOff").addEventListener('click', function (e) {
+
+            console.log("click");
+
+            var xhttp = new XMLHttpRequest();
+            xhttp.open("POST", '/test/Home/TurnLampOff', true);
+            xhttp.send();
+
+            e.preventDefault()
+        }, false);
+    });
+
+
+</script>

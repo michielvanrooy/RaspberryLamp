@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RaspberryLamp", "RaspberryLamp\RaspberryLamp.csproj", "{0A69C9C3-7DF9-41AD-BBA2-D6F1B46C4678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspberryRobotGpio", "RaspberryRobotGpio\RaspberryRobotGpio.csproj", "{CB8F2524-4489-4E8B-B004-605260A8345A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A69C9C3-7DF9-41AD-BBA2-D6F1B46C4678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A69C9C3-7DF9-41AD-BBA2-D6F1B46C4678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A69C9C3-7DF9-41AD-BBA2-D6F1B46C4678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A69C9C3-7DF9-41AD-BBA2-D6F1B46C4678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB8F2524-4489-4E8B-B004-605260A8345A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8F2524-4489-4E8B-B004-605260A8345A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8F2524-4489-4E8B-B004-605260A8345A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8F2524-4489-4E8B-B004-605260A8345A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C94516E-FD30-4416-85AE-AD94DA163FC0}
+	EndGlobalSection
+EndGlobal

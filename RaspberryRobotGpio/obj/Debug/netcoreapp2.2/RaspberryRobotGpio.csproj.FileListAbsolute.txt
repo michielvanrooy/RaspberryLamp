@@ -1,0 +1,9 @@
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\bin\Debug\netcoreapp2.2\RaspberryRobotGpio.deps.json
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\bin\Debug\netcoreapp2.2\RaspberryRobotGpio.dll
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\bin\Debug\netcoreapp2.2\RaspberryRobotGpio.pdb
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\obj\Debug\netcoreapp2.2\RaspberryRobotGpio.csprojAssemblyReference.cache
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\obj\Debug\netcoreapp2.2\RaspberryRobotGpio.csproj.CoreCompileInputs.cache
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\obj\Debug\netcoreapp2.2\RaspberryRobotGpio.AssemblyInfoInputs.cache
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\obj\Debug\netcoreapp2.2\RaspberryRobotGpio.AssemblyInfo.cs
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\obj\Debug\netcoreapp2.2\RaspberryRobotGpio.dll
+C:\Solutions\RaspberryLamp\RaspberryRobotGpio\obj\Debug\netcoreapp2.2\RaspberryRobotGpio.pdb
